@@ -17,7 +17,7 @@
                             <div>
                                 <p class="text-mute mt-20 mb-0 font-size-16">New Student</p>
                                 <h3 class="text-white mb-0 font-weight-500">300 <small class="text-success"><i
-                                            class="fa fa-caret-up"></i> +25%</small></h3>
+                                            class="fa fa-caret-up"></i> +38732687%</small></h3>
                             </div>
                         </div>
                     </div>
